@@ -1,7 +1,7 @@
 {
-    "name": "Prime Music",
+    "name": "Apple Music",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/ead703562aa39dafa9347.jpg",
+    "logo": "https://telegra.ph/file/4c2d0660ef49c5aa2ad85.jpg",
     "keywords": [
     "python3",
     "telegram",
