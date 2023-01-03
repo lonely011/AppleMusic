@@ -1,6 +1,6 @@
 <img src="https://telegra.ph/file/198ae8fd6048244f918ab.jpg" align="right" width="200" height="200"/>
 
-# Prime Music Bot <img src="https://img.shields.io/github/v/release/Toni880/PrimeMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+# Apple Music Bot <img src="https://img.shields.io/github/v/release/Toni880/PrimeMusic?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
 
 [Prime Music Bot](https://github.com/Toni880/PrimeMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
