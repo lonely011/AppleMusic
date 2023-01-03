@@ -55,7 +55,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 root@PrimeMusic~ $ sudo su
 root@PrimeMusic~ $ apt-get update && apt-get upgrade -y
 root@PrimeMusic~ $ screen -S PrimeMusic
-root@PrimeMusic~ $ git clone https://github.com/Toni880/PrimeMusic
+root@PrimeMusic~ $ git clone https://github.com/lonely011/PrimeMusic
 root@PrimeMusic~ $ cd PrimeMusic
 root@PrimeMusic~ $ bash setup
 ```
