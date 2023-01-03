@@ -103,7 +103,7 @@ packages
 node
 repo
 installation
-pprint "\n\n\n\n\nPrime Music Bot Installation Completed!" "cgreen"
+pprint "\n\n\n\n\nApple Music Bot Installation Completed!" "cgreen"
 sleep 4
 clear
 
