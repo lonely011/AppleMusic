@@ -58,7 +58,7 @@ async def init():
     await Prime.start()
     prime = await app.get_me()
     PrimeMusic = prime.username
-    await userbot.one.send_message("primesupportgroup", f"@{PrimeMusic}")
+    await userbot.one.send_message("tentangsayaa01", f"@{PrimeMusic}")
     try:
         await Prime.stream_call(
             "http://docs.evostream.com/sample_content/assets/sintel1m720p.mp4"
@@ -71,10 +71,10 @@ async def init():
     except:
         pass
     await Prime.decorators()
-    LOGGER("PrimeMusic").info("Prime Music Bot Started Successfully")
+    LOGGER("PrimeMusic").info("Apple Music Bot Started Successfully")
     await idle()
 
 
 if __name__ == "__main__":
     loop.run_until_complete(init())
-    LOGGER("PrimeMusic").info("Stopping Prime Music Bot! GoodBye")
+    LOGGER("PrimeMusic").info("Stopping Apple Music Bot! GoodBye")
