@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/198ae8fd6048244f918ab.jpg" align="right" width="200" height="200"/>
+<img src="https://telegra.ph/file/4c2d0660ef49c5aa2ad85.jpg" align="right" width="200" height="200"/>
 
 # Apple Music Bot 
 
