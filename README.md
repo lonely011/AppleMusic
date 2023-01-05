@@ -52,7 +52,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 ```console
 root@AppleMusic~ $ sudo su
 root@AppleMusic~ $ apt-get update && apt-get upgrade -y
-root@AppleMusic~ $ screen -S PrimeMusic
+root@AppleMusic~ $ screen -S AppleMusic
 root@AppleMusic~ $ git clone https://github.com/lonely011/AppleMusic
 root@AppleMusic~ $ cd Apple
 root@AppleMusic~ $ bash setup
