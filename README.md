@@ -25,13 +25,11 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 # ⚡️ Getting Started
 
-### Before deploying Prime Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
+### Before deploying Apple Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
 ## 🖇 Generating Pyrogram String Session
 
 - Generate a Pyrogram String Session via [Replit](https://replit.com/@Tonic990/StringSession)
-
-- Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/PrimeStringBot)
 
 # Deployment on Heroku or VPS
 
@@ -39,10 +37,10 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 <summary><b> 🚀 Heroku Deployment</b></summary>
 <br>
 
-<h4>Click the button below to deploy Prime on Heroku!</h4>    
-<a href="https://heroku.com/deploy?template=https://github.com/Toni880/PrimeMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<h4>Click the button below to deploy Apple on Heroku!</h4>    
+<a href="https://heroku.com/deploy?template=https://github.com/lonely011/AppleMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
-<h4>Click the button below to deploy Prime on bot Telegram!</h4>
+<h4>Click the button below to deploy Apple on bot Telegram!</h4>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=VG9uaTg4MC9QcmltZU11c2ljIG1haW4"><img src="https://img.shields.io/badge/Deploy%20To%20Bot%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/></a>
 </details>
 
@@ -52,17 +50,17 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
     
 ### Tutorial Deploy on VPS
 ```console
-root@PrimeMusic~ $ sudo su
-root@PrimeMusic~ $ apt-get update && apt-get upgrade -y
-root@PrimeMusic~ $ screen -S PrimeMusic
-root@PrimeMusic~ $ git clone https://github.com/lonely011/PrimeMusic
-root@PrimeMusic~ $ cd PrimeMusic
-root@PrimeMusic~ $ bash setup
+root@AppleMusic~ $ sudo su
+root@AppleMusic~ $ apt-get update && apt-get upgrade -y
+root@AppleMusic~ $ screen -S PrimeMusic
+root@AppleMusic~ $ git clone https://github.com/lonely011/AppleMusic
+root@AppleMusic~ $ cd Apple
+root@AppleMusic~ $ bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
 > Please input your vars correctly.
 ```console
-root@PrimeMusic~ $ bash start
+root@AppleMusic~ $ bash start
 ```
 
 </details>
@@ -73,7 +71,7 @@ This project is licensed under the **GNU General Public License v3**. All design
 
 See [LICENSE](../LICENSE) for more information.
 
-Special thanks to these amazing projects/people which/who help power Prime Music Bot:
+Special thanks to these amazing projects/people which/who help power Apple Music Bot:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
