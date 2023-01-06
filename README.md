@@ -31,7 +31,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 - Generate a Pyrogram String Session via [Replit](https://replit.com/@Tonic990/StringSession)
 
-# Deployment on Heroku or VPS
+# Deployment In VPS
 
 </details>
 
