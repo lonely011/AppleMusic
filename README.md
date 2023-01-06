@@ -33,15 +33,6 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 # Deployment on Heroku or VPS
 
-<details>
-<summary><b> 🚀 Heroku Deployment</b></summary>
-<br>
-
-<h4>Click the button below to deploy Apple on Heroku!</h4>    
-<a href="https://heroku.com/deploy?template=https://github.com/lonely011/AppleMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
-
-<h4>Click the button below to deploy Apple on bot Telegram!</h4>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=VG9uaTg4MC9QcmltZU11c2ljIG1haW4"><img src="https://img.shields.io/badge/Deploy%20To%20Bot%20Telegram-blue?style=for-the-badge&logo=telegram" width="200""/></a>
 </details>
 
 <details>
@@ -54,7 +45,7 @@ root@AppleMusic~ $ sudo su
 root@AppleMusic~ $ apt-get update && apt-get upgrade -y
 root@AppleMusic~ $ screen -S AppleMusic
 root@AppleMusic~ $ git clone https://github.com/lonely011/AppleMusic
-root@AppleMusic~ $ cd Apple
+root@AppleMusic~ $ cd AppleMusic
 root@AppleMusic~ $ bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
