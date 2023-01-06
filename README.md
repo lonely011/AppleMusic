@@ -70,3 +70,6 @@ Special thanks to these amazing projects/people which/who help power Apple Music
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
 - [TeamYukki](https://github.com/TeamYukki)
+
+### Kanger By 
+- [lonely](https://github.com/lonely011/AppleMusic)
