@@ -25,12 +25,6 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 
 # ⚡️ Getting Started
 
-### Before deploying Apple Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
-
-## 🖇 Generating Pyrogram String Session
-
-- Generate a Pyrogram String Session via [Replit](https://replit.com/@Tonic990/StringSession)
-
 # Deployment In VPS
 
 </details>
