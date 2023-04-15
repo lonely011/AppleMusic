@@ -41,6 +41,8 @@ root@AppleMusic~ $ screen -S AppleMusic
 root@AppleMusic~ $ git clone https://github.com/lonely011/AppleMusic
 root@AppleMusic~ $ cd AppleMusic
 root@AppleMusic~ $ bash setup
+root@AppleMusic~ $ screen -S AppleMusic
+root@AppleMusic~ $ -
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
 > Please input your vars correctly.
