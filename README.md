@@ -23,9 +23,7 @@ This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls
 * The project uses the font [`Raleway`](../assets/font2.ttf) as its main font for the thumbnails.
 * The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
 
-# ⚡️ Getting Started
-
-# Deployment In VPS
+# Deployment On VPS
 
 </details>
 
@@ -66,6 +64,12 @@ Special thanks to these amazing projects/people which/who help power Apple Music
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
 - [TeamYukki](https://github.com/TeamYukki)
+
+<h3 align="left">
+    full credits
+    
+<a href="https://github.com/TeamYukki"> <img src="https://img.shields.io/badge/TeamYukki-black?style=for-the-badge&logo=github" alt="TeamYukki" /> </a>
+</h3>
 
 ### Kanger By 
 - [lonely](https://github.com/lonely011/AppleMusic)
